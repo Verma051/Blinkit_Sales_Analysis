@@ -1,4 +1,8 @@
 # Blinkit_Sales_Analysis
+🚀 Project Completed: Blinkit Data Analysis in Power BI 🚀
+
+I'm excited to share my recent project on analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. In this project, I utilized Power BI to create a comprehensive dashboard that provides insights into various KPIs and identifies opportunities for optimization.
+
 🔍 Project Overview:
 Business Requirement:
 
@@ -19,21 +23,15 @@ Sales by Outlet Location (Funnel Map): Mapped geographic sales distribution.
 All Metrics by Outlet Type (Matrix Card): Presented a holistic view of KPIs across outlet types.
 ⚙️ Project Steps:
 Requirement Gathering / Business Requirements
-
 Data Walkthrough
-
 Data Connection
-
 Data Cleaning / Quality Check
-
 Data Modeling
-
 Data Processing
-
 DAX Calculations
-
 Dashboard Layouting & Charts Development
-
 Insights Generation
+This project provided valuable insights and demonstrated the power of data visualization for decision-making in the retail industry. 
 
-This project provided valuable insights and demonstrated the power of data visualization for decision-making in the retail industry.
+
+T
