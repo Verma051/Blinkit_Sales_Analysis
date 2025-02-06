@@ -10,7 +10,6 @@ Average Sales: The average revenue per sale.
 Number of Items: Total count of items sold.
 Average Rating: The average customer rating for sold items.
 📊 Dashboard Visualizations:
-
 Total Sales by Fat Content (Donut Chart): Analyzed how fat content affects sales and other KPIs.
 Total Sales by Item Type (Bar Chart): Explored item type performance in sales, ratings, and more.
 Fat Content by Outlet for Total Sales (Stacked Column Chart): Compared fat content sales performance across outlets.
@@ -20,12 +19,21 @@ Sales by Outlet Location (Funnel Map): Mapped geographic sales distribution.
 All Metrics by Outlet Type (Matrix Card): Presented a holistic view of KPIs across outlet types.
 ⚙️ Project Steps:
 Requirement Gathering / Business Requirements
+
 Data Walkthrough
+
 Data Connection
+
 Data Cleaning / Quality Check
+
 Data Modeling
+
 Data Processing
+
 DAX Calculations
+
 Dashboard Layouting & Charts Development
+
 Insights Generation
+
 This project provided valuable insights and demonstrated the power of data visualization for decision-making in the retail industry.
