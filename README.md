@@ -32,6 +32,3 @@ DAX Calculations
 Dashboard Layouting & Charts Development
 Insights Generation
 This project provided valuable insights and demonstrated the power of data visualization for decision-making in the retail industry. 
-
-
-T
